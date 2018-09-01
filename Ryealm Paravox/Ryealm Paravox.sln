@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ryealm Paravox", "Ryealm Paravox.csproj", "{16231A77-95A1-00A4-31CB-BA1C7CC3D783}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ryealm Paravox.Plugins", "Ryealm Paravox.Plugins.csproj", "{92801085-B646-FC9F-1164-16BF589282FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ryealm Paravox.Editor", "Ryealm Paravox.Editor.csproj", "{48C37C9E-B335-6367-BA90-513F94A95561}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ryealm Paravox.Editor.Plugins", "Ryealm Paravox.Editor.Plugins.csproj", "{230F4D95-E9ED-5797-E20A-9A2DCF8FD8CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16231A77-95A1-00A4-31CB-BA1C7CC3D783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16231A77-95A1-00A4-31CB-BA1C7CC3D783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16231A77-95A1-00A4-31CB-BA1C7CC3D783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16231A77-95A1-00A4-31CB-BA1C7CC3D783}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92801085-B646-FC9F-1164-16BF589282FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92801085-B646-FC9F-1164-16BF589282FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92801085-B646-FC9F-1164-16BF589282FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92801085-B646-FC9F-1164-16BF589282FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48C37C9E-B335-6367-BA90-513F94A95561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48C37C9E-B335-6367-BA90-513F94A95561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48C37C9E-B335-6367-BA90-513F94A95561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48C37C9E-B335-6367-BA90-513F94A95561}.Release|Any CPU.Build.0 = Release|Any CPU
+		{230F4D95-E9ED-5797-E20A-9A2DCF8FD8CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230F4D95-E9ED-5797-E20A-9A2DCF8FD8CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{230F4D95-E9ED-5797-E20A-9A2DCF8FD8CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{230F4D95-E9ED-5797-E20A-9A2DCF8FD8CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
